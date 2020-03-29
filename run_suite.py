@@ -20,4 +20,4 @@ with open(ihrm_report_path, 'wb') as f:
     # 使用实例化的htmltestrunner运行测试套件
     runner.run(suite)
 
-print("更改输出数据，检查轮巡构建，最长不会超过一分钟")
+print("更改输出数据，检查轮巡构建，最长不会超过一分钟。")
