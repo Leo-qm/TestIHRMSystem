@@ -1,0 +1,14 @@
+2020-03-27 11:29:48,797 INFO [root] [__init__.py(<module>:6)] - Test---------------
+2020-03-27 11:30:00,969 INFO [root] [__init__.py(<module>:6)] - Test---------------
+2020-03-27 11:30:01,430 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'adaa2cdf-e3c2-4950-9988-27b6fc5d84bc'}
+2020-03-27 11:30:01,495 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:01,584 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:01,661 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:01,894 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:02,119 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:02,341 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:02,429 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'dcc5e9a3-d4bd-4821-825c-330ac8fd9216'}
+2020-03-27 11:30:02,629 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:02,782 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 11:30:02,917 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-27 11:30:03,070 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}

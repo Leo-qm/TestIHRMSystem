@@ -1,0 +1,130 @@
+[
+  {
+    "casename": "登录成功",
+    "login_body": {
+      "mobile": "13800000002",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "casename": "密码错误",
+    "login_body": {
+      "mobile": "13800000002",
+      "password": "1234567"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "账号不存在",
+    "login_body": {
+      "mobile": "13900000002",
+      "password": "1234567"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "手机号码有英文字符",
+    "login_body": {
+      "mobile": "1390000AX02",
+      "password": "1234567"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "手机号码有特殊字符",
+    "login_body": {
+      "mobile": "1390000*(02",
+      "password": "1234567"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "手机号码为空",
+    "login_body": {
+      "mobile": "",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "密码为空",
+    "login_body": {
+      "mobile": "13800000002",
+      "password": ""
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "多参-多出1个参数",
+    "login_body": {
+      "mobile": "13800000002",
+      "password": "123456",
+      "sign": "123"
+    },
+    "http_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "casename": "少参-缺少mobile",
+    "login_body": {
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "少参-缺少password",
+    "login_body": {
+      "mobile": "13800000002"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  {
+    "casename": "无参",
+    "login_body": null,
+    "http_code": 200,
+    "success": false,
+    "code": 99999,
+    "message": "抱歉，系统繁忙，请稍后重试"
+  },
+  {
+    "casename": "错误参数",
+    "login_body": {
+      "mboile": "13800000002",
+      "password": "123456"
+    },
+    "http_code": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  }
+]
