@@ -1,0 +1,29 @@
+2020-03-27 12:48:25,289 INFO [root] [__init__.py(<module>:6)] - Test---------------
+2020-03-27 12:48:25,800 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3b443abd-0549-4c70-88f5-b9f479aa9095'}
+2020-03-27 12:48:25,907 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:25,988 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:26,053 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:26,120 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:26,215 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:26,295 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:26,382 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3583484a-e879-4276-9792-e1d3c840099d'}
+2020-03-27 12:48:26,546 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:26,638 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:26,749 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-27 12:48:26,848 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:42,437 INFO [root] [__init__.py(<module>:6)] - Test---------------
+2020-03-27 12:48:42,857 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '61ccfcd0-cda8-4274-84bd-47aa4b44dbb8'}
+2020-03-27 12:48:42,926 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:42,984 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:43,047 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:43,112 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:43,185 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '628b991f-401e-4133-a630-4de4dcbae77f'}
+2020-03-27 12:48:43,250 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:43,330 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'e0a19ce1-322b-4a47-9ee0-193e1e98a9fc'}
+2020-03-27 12:48:43,384 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:43,439 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-27 12:48:43,493 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-27 12:48:43,555 INFO [root] [test_login_para.py(test01_login:27)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2021-04-30 15:05:41,834 INFO [root] [app.py(<module>:39)] - Test测试日志打印
+2021-04-30 15:06:08,078 INFO [root] [app.py(<module>:39)] - Test测试日志打印
+2021-04-30 15:06:08,078 INFO [root] [app.py(<module>:40)] - 555
